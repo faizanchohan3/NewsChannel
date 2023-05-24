@@ -1,0 +1,266 @@
+{
+"status": "ok",
+"totalResults": 35,
+"articles": [
+{
+"source": {
+"id": null,
+"name": "WJCL News"
+},
+"author": null,
+"title": "Mental illness may put people under 40 at a risk of heart attack and stroke - WJCL News Savannah",
+"description": "People younger than 40 with a mental disorder were 58% more likely to have a heart attack and 42% more likely to have a stroke than those with no disorder, the study found.",
+"url": "https://www.wjcl.com/article/mental-illness-under-40-higher-risk-heart-attack-stroke/43831446",
+"urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-e005e82e575977cc26875da0ec2fce5e-h-2a30de5af3915d3a83ce346dab47cae1-jpg-64599bf32b857.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+"publishedAt": "2023-05-09T14:23:00Z",
+"content": "Adults in their 20s and 30s with mental disorders have a higher chance of having a heart attack or stroke, according to a new study.\r\nThe study published Monday in the European Journal of PreventiveC… [+4450 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Ibrahim Dahman,Abeer Salman,Richard Allen Greene",
+"title": "Three Islamic Jihad commanders and family members among multiple dead in Israeli strikes on Gaza - CNN",
+"description": "Three Islamic Jihad commanders and multiple family members were among 13 Palestinians killed as Israeli jets and helicopters struck multiple targets in Gaza overnight in what Israel described as an operation targeting \"kingpin terrorists.\"",
+"url": "https://www.cnn.com/2023/05/08/middleeast/israel-islamic-jihad-idf-strike-gaza-intl-hnk/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508185119-02-israeli-strike-gaza-0509.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T14:22:00Z",
+"content": "Three Islamic Jihad commanders and multiple family members were among 13 Palestinians killed as Israeli jets and helicopters struck multiple targets in Gaza overnight in what Israel described as an o… [+5717 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CBS Sports"
+},
+"author": "",
+"title": "Warriors vs. Lakers: Steve Kerr deserves brunt of blame for Golden State's 3-1 hole - CBS Sports",
+"description": "Steph Curry has provided a winning blueprint, yet his coach continues to ignore it",
+"url": "https://www.cbssports.com/nba/news/warriors-vs-lakers-steve-kerr-deserves-brunt-of-blame-for-golden-states-3-1-hole/",
+"urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/05/09/3d1efa64-c52c-4de0-ba2e-c8c351d61d45/thumbnail/1200x675/1f7b276ec821b6e37a7f779adf324939/steve-kerr-getty-1.png",
+"publishedAt": "2023-05-09T14:14:00Z",
+"content": "The Warriors lost a wild Game 4 on Monday and now trail the Lakers 3-1 in their second-round series. Over the course of NBA history, 95% of teams that go down 3-1 go on to lose the series. It is a te… [+6212 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Guardian"
+},
+"author": "Pjotr Sauer",
+"title": "Russian missiles downed over Kyiv as Putin makes angry Victory Day speech - The Guardian",
+"description": "Putin defends invasion, claiming enemies seek his country’s destruction, as security fears cast shadow over celebrations",
+"url": "https://www.theguardian.com/world/2023/may/09/russian-missiles-downed-over-kyiv-putin-marks-victory-day-ukraine",
+"urlToImage": "https://i.guim.co.uk/img/media/7246e4b52f4a1f535d2ccb867a27505d5cbef20d/0_200_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7992c4f31c689475b3a69c1d248859b",
+"publishedAt": "2023-05-09T13:57:41Z",
+"content": "Russian cruise missiles exploded in the air over Kyiv as Vladimir Putin marked the anniversary of victory over the Nazis with an overnight attack on Ukraine.\r\nSpeaking at the 78th annual celebration … [+8887 chars]"
+},
+{
+"source": {
+"id": "reuters",
+"name": "Reuters"
+},
+"author": null,
+"title": "PacWest leads losses in regional bank stocks - Reuters",
+"description": "Shares of PacWest Bancorp <a href=\"https://www.reuters.com/companies/PACW.O\" target=\"_blank\">(PACW.O)</a> led declines in U.S. regional lenders at market open on Tuesday as investors feared the ongoing banking crisis could deepen.",
+"url": "https://www.reuters.com/markets/us/pacwest-western-alliance-lead-slide-regional-bank-stocks-2023-05-09/",
+"urlToImage": "https://www.reuters.com/resizer/6nSOCOZ_zBxVHKBdDjbz-79zOac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IITSN5REOFMIJA7GGE23HXBEPQ.jpg",
+"publishedAt": "2023-05-09T13:50:00Z",
+"content": "May 9 (Reuters) - Shares of PacWest Bancorp (PACW.O) led declines in U.S. regional lenders at market open on Tuesday as investors feared the ongoing banking crisis could deepen.\r\nPacWest dropped 5% i… [+2367 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "The Guardian"
+},
+"author": "Guardian staff reporter",
+"title": "Russia-Ukraine war at a glance: what we know on day 440 of the invasion - The Guardian",
+"description": "Red Cross warehouse containing aid destroyed in Russian missile attack in Odesa; five wounded in Moscow’s wave of strikes on Kyiv",
+"url": "https://www.theguardian.com/world/2023/may/09/russia-ukraine-war-at-a-glance-what-we-know-on-day-440-of-the-invasion",
+"urlToImage": "https://i.guim.co.uk/img/media/1597afc5e547e51156df207bbd13643c2f596b87/0_273_4442_2665/master/4442.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=157cab54f2eb30766e31bf8772fd9809",
+"publishedAt": "2023-05-09T13:24:00Z",
+"content": "<li>Vladimir Putin has told Russian soldiers fighting in Ukraine that the whole country is praying for them, as he used his Victory Day speech to defend his invasion of Ukraine. Speaking at the 78th … [+7451 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Casey Tolan,Paul P. Murphy,Curt Devine,Josh Campbell,Alisha Ebrahimji",
+"title": "What we know about the North Texas outlet mall gunman and his online posts - CNN",
+"description": "A gunman who killed eight people at a Texas shopping mall purportedly wrote online of his support for Nazi ideology, authorities said.",
+"url": "https://www.cnn.com/2023/05/08/us/mauricio-garcia-allen-texas-shooting/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508065255-allen-outlets-shooting-texas-file-050623.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T13:20:00Z",
+"content": "A gunman who killed eight people at a Texas shopping mall purportedly wrote online of his support for Nazi ideology, authorities said.\r\nMauricio Garcia, 33, also wounded at least seven others Saturda… [+6401 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "Apple Newsroom"
+},
+"author": null,
+"title": "Apple brings Final Cut Pro and Logic Pro to iPad - Apple",
+"description": "Apps introduce powerful features designed for iPad to deliver the ultimate mobile studio for video and music creators.",
+"url": "https://www.apple.com/newsroom/2023/05/apple-brings-final-cut-pro-and-logic-pro-to-ipad/",
+"urlToImage": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple-iPad-Final-Cut-Pro-Logic-Pro-hero.jpg.og.jpg?202305091316",
+"publishedAt": "2023-05-09T13:03:15Z",
+"content": "May 9, 2023\r\nPRESS RELEASE\r\nApple brings Final Cut Pro and Logic Pro to iPad \r\nPro apps introduce powerful features designed for iPad to deliver the ultimate mobile studio for video and music creator… [+9650 chars]"
+},
+{
+"source": {
+"id": "google-news",
+"name": "Google News"
+},
+"author": null,
+"title": "Breaking: Ryanair Places Huge Order For Up To 300 Boeing 737 MAX 10s - Simple Flying",
+"description": null,
+"url": "https://families.google.com/service-restricted",
+"urlToImage": null,
+"publishedAt": "2023-05-09T12:36:00Z",
+"content": null
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Sarah Min",
+"title": "Stocks making the biggest moves premarket: Palantir, Skyworks, Under Armour & more - CNBC",
+"description": "These are the stocks posting the largest moves in early trading.",
+"url": "https://www.cnbc.com/2023/05/09/stocks-making-the-biggest-moves-premarket-palantir-skyworks-under-armour-more.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/106805361-1606944602892-gettyimages-1228810171-PALANTIR_NYSE.jpeg?v=1683635129&w=1920&h=1080",
+"publishedAt": "2023-05-09T12:25:29Z",
+"content": "Check out the companies making headlines before the bell:\r\nPalantir Technologies Shares of Palantir rose nearly 20% after the enterprise computing firm best known for its data mining platforms releas… [+3851 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Chris Isidore",
+"title": "Fox posts a loss because of its Dominion settlement - CNN",
+"description": "Fox Corp. posted a loss in the most recent quarter after it paid a $787.5 million settlement to Dominion Voting Systems.",
+"url": "https://www.cnn.com/2023/05/09/media/fox-loss-dominion/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508145314-fox-earnings-052023.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T12:11:00Z",
+"content": "Fox Corp. posted a loss in the most recent quarter after it paid a $787.5 million settlement to Dominion Voting Systems. \r\nThe company had posted a profit in the same quarter a year ago.\r\nThe company… [+1139 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Emma Kinery, Christina Wilkie",
+"title": "Biden to meet with congressional leaders as U.S. inches closer to debt ceiling deadline, possible default - CNBC",
+"description": "Congress is at an impasse over hiking the debt ceiling, as the U.S. stands only weeks away from a potential default.",
+"url": "https://www.cnbc.com/2023/05/09/debt-ceiling-biden-to-meet-mccarthy-schumer-jeffries-and-mcconnell.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107236548-1683307548888-gettyimages-1487807806-109a9900_jz6pkrvg.jpeg?v=1683633601&w=1920&h=1080",
+"publishedAt": "2023-05-09T12:00:01Z",
+"content": "WASHINGTON  President Joe Biden will meet with congressional leaders Tuesday as Washington scrambles to lift the debt ceiling with less than a month before the federal government is set to run out of… [+4509 chars]"
+},
+{
+"source": {
+"id": "the-wall-street-journal",
+"name": "The Wall Street Journal"
+},
+"author": "Corinne Ramey, James Fanelli",
+"title": "Jury to Begin Deliberations in E. Jean Carroll Rape Case Against Donald Trump - The Wall Street Journal",
+"description": "Panel to weigh writer’s battery and defamation claims",
+"url": "https://www.wsj.com/articles/jury-to-begin-deliberations-in-e-jean-carroll-rape-case-against-donald-trump-3d8ee3dd",
+"urlToImage": "https://images.wsj.net/im-778208/social",
+"publishedAt": "2023-05-09T12:00:00Z",
+"content": null
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Dr. Sanjay Gupta",
+"title": "Dr. Sanjay Gupta: The Covid-19 emergency is ending. It's time for the patient to leave the hospital - CNN",
+"description": "After more than three very long years, it's finally happening: The Covid-19 pandemic is ending, at least in the formal sense, both in this country and abroad. This moment is not being marked with parades or big parties but rather with the flourishes of two ad…",
+"url": "https://www.cnn.com/2023/05/09/health/covid-public-health-emergency-ends-gupta/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230508133147-public-health-emergency-who-pandemic-end-gupta.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T11:58:00Z",
+"content": "After more than three very long years, its finally happening: The Covid-19 pandemic is ending, at least in the formal sense, both in this country and abroad. This moment is not being marked with para… [+9957 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "9to5Mac"
+},
+"author": "Ben Lovejoy",
+"title": "Largest iPhone screens ever coming to iPhone 16 Pro models – Ross Young - 9to5Mac",
+"description": "Next year’s iPhone 16 Pro models will have the largest iPhone screens ever, according to Ross Young, a display analyst...",
+"url": "https://9to5mac.com/2023/05/09/largest-iphone-screens/",
+"urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/05/Largest-iPhone-screens-ever.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-05-09T11:18:00Z",
+"content": "Next year’s iPhone 16 Pro models will have the largest iPhone screens ever, according to Ross Young, a display analyst with a solid track record. These models have also been reported to drop the notc… [+2957 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Tina Burnside",
+"title": "Manhunt underway for 2 'dangerous' men who escaped from a Philadelphia correctional facility and weren't discovered missing until nearly a day later - CNN",
+"description": "Philadelphia officials are looking for two men, including one who is charged in multiple homicides, who escaped a correctional facility and weren't discovered missing until nearly a full day after they slipped through a hole in a fence.",
+"url": "https://www.cnn.com/2023/05/09/us/philadelphia-escapees-manhunt/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509103028-philadelphia-escapees-manhunt-split.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T11:04:00Z",
+"content": "Philadelphia officials are looking for two men, including one who is charged in multiple homicides, who escaped a correctional facility and werent discovered missing until nearly a full day after the… [+2624 chars]"
+},
+{
+"source": {
+"id": "politico",
+"name": "Politico"
+},
+"author": null,
+"title": "China expels Canadian consul in diplomat row - POLITICO",
+"description": "Latest move is tip of the iceberg in wider controversy.",
+"url": "https://www.politico.com/news/2023/05/09/china-expels-canadian-consul-00095922",
+"urlToImage": "https://static.politico.com/9d/71/2d775f904516a56cafcce46fd5b7/https-delivery-gettyimages.com/downloads/885255030",
+"publishedAt": "2023-05-09T10:58:09Z",
+"content": "Tit-for-tat diplomatic expulsions are normal in international diplomacy, but relations have been rocky between the two countries for years and China has targeted Canadian trade in the past. Canola ex… [+2521 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "YouTube"
+},
+"author": null,
+"title": "Former Pakistan PM Imran Khan arrested | PTI claims 'Imran badly injured' | Pakistan News | WION - WION",
+"description": null,
+"url": "https://www.youtube.com/watch?v=N4YbXWR-l5o",
+"urlToImage": null,
+"publishedAt": "2023-05-09T10:38:28Z",
+"content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+},
+{
+"source": {
+"id": null,
+"name": "Novavax.com"
+},
+"author": null,
+"title": "Positive Phase 2 Topline Results Show Novavax's COVID-Influenza Combination, Stand-alone Influenza and High-dose COVID Vaccine Candidates Demonstrate Robust Immune Responses - Novavax Investor Relations",
+"description": "This Phase 2 trial is evaluating three vaccine candidates: COVID-Influenza Combination, stand-alone influenza and high-dose COVID Preliminary topline immune responses for all three vaccine...",
+"url": "https://ir.novavax.com/2023-05-09-Positive-Phase-2-Topline-Results-Show-Novavaxs-COVID-Influenza-Combination,-Stand-alone-Influenza-and-High-dose-COVID-Vaccine-Candidates-Demonstrate-Robust-Immune-Responses",
+"urlToImage": "https://mma.prnewswire.com/media/1506866/Novavax_High_Res_Logo.jpg?p=facebook",
+"publishedAt": "2023-05-09T10:29:41Z",
+"content": "<ul><li>This Phase 2 trial is evaluating three vaccine candidates: COVID-Influenza Combination, stand-alone influenza and high-dose COVID</li><li>Preliminary topline immune responses for all three va… [+9323 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Homero De la Fuente",
+"title": "West Virginia's men's basketball head coach apologizes for 'insensitive and abhorrent' comments made on radio interview - CNN",
+"description": "West Virginia's men's basketball head coach Bob Huggins apologized for \"insensitive\" and \"abhorrent\" comments he made while appearing on the 700 WLW's Bill Cunningham Show on Monday.",
+"url": "https://www.cnn.com/2023/05/09/sport/west-virginia-basketball-head-coach-apologizes-spt-intl/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230509083453-bob-huggins-030923.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-05-09T07:46:00Z",
+"content": "West Virginias mens basketball head coach Bob Huggins apologized for insensitive and abhorrent comments he made while appearing on the 700 WLWs Bill Cunningham Show on Monday.\r\nEarlier today on a Cin… [+2035 chars]"
+}
+]
+}
